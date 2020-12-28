@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.com/Garmin-Forerunner-Running-Unit-Black/dp/B06XGD6CS4/ref=pd_sbs_107_2/142-3073585-0669905?_encoding=UTF8&pd_rd_i=B06XGD6CS4&pd_rd_r=c493132b-febd-45b6-beea-8f0535beca94&pd_rd_w=Lsqwv&pd_rd_wg=SiHor&pf_rd_p=ee4a13a5-1d19-4a45-a832-a74924eb9541&pf_rd_r=DGADM2N20ESW1GGFKSGF&psc=1&refRID=DGADM2N20ESW1GGFKSGF"
+
+}

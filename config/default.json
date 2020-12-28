@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://anchit:anc1202hit@url-shortner-1.cw6js.mongodb.net/urlsdb?retryWrites=true&w=majority",
+    "baseURl" : "http://localhost:5000"
+}
